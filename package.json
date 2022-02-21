@@ -1,0 +1,17 @@
+{
+  "name": "coingecko-api",
+  "version": "1.0.0",
+  "description": "Coin Gecko API for top 100 markets",
+  "main": "nodemon index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "koecha",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
